@@ -10,20 +10,24 @@ This project is an introduction to noSQL databases, specifically mongodb. The da
 
 ### Resources Folder:
 1. establishments.json file used to populate the database
-1. image.png is a screenshot used to document analysis results
+1. *.png are screenshots used to document analysis results
 
 ## Analysis
 
-- Number of establishments with a hygiene score of 20 (0 is best, higher numbers are worse): 41
-- Number of establishments with London as the Local Authority and a RatingValue greater than or equal to 4: 33
+- Number of establishments with a hygiene score of 20 (0 is best, higher numbers are worse): **41**
+- Number of establishments with London as the Local Authority and a RatingValue greater than or equal to 4: **33**
 - The top 5 establishments close to Penang Flavours with best Hygiene score:
-![alt text](Resources/image.png)
+
+![alt text](Resources/image0.png)
+- Number of Local Authorities with at least one establishment with hygiene score of 0:  **55**  (Top 10 below)
+
+![alt text](Resources/image1.png)
 
 ## Setup
 
 - Initialize mongodb, create database 'uk-food', and load the JSON data into collection 'establishments'
 - Add the restaurant Penang Flavours to the database
-- The BusinessTypeID for Restaurant/Cafe/Canteen is: 1
+- The BusinessTypeID for Restaurant/Cafe/Canteen is: **1**
 - The BusinessTypeID for Penang Flavours has been updated to 1
 - All establishments in Dover have been removed from the database
 - All latitude and longitudinal coordinates have been changed from strings to decimals
