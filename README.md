@@ -14,7 +14,6 @@ Andrew Lane, 2024
 - [@andrewplane](https://github.com/andrewplane)
 
 ## Highlights - Setup
-
 -Add the restaurant Penang Flavours to the database:
 -The BusinessTypeID for Restaurant/Cafe/Canteen is: 1
 -The BusinessTypeID for Penang Flavours has been updated to '1'
