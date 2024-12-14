@@ -14,16 +14,16 @@ Andrew Lane, 2024
 - [@andrewplane](https://github.com/andrewplane)
 
 ## Highlights - Setup
--Add the restaurant Penang Flavours to the database:
--The BusinessTypeID for Restaurant/Cafe/Canteen is: 1
--The BusinessTypeID for Penang Flavours has been updated to '1'
--All establishments in Dover have been removed from the database
--All latitude and longitudinal coordinates have been changed from strings to decimals
--All RatingValue entries have been changed to an integer unless they contain a text note.
+- Add the restaurant Penang Flavours to the database:
+- The BusinessTypeID for Restaurant/Cafe/Canteen is: 1
+- The BusinessTypeID for Penang Flavours has been updated to '1'
+- All establishments in Dover have been removed from the database
+- All latitude and longitudinal coordinates have been changed from strings to decimals
+- All RatingValue entries have been changed to an integer unless they contain a text note.
 
 ## Highlights - Analysis
 
--Number of establishments with a hygiene score of 20 (0 is best, higher numbers are worse): 41
--Number of establishments with London as the Local Authority and a RatingValue >= 4: 33
--The top 5 establishments close to Penang Flavours with a Hygiene score of 0:
+- Number of establishments with a hygiene score of 20 (0 is best, higher numbers are worse): 41
+- Number of establishments with London as the Local Authority and a RatingValue >= 4: 33
+- The top 5 establishments close to Penang Flavours with a Hygiene score of 0:
 ![alt text](Resources/image.png)
