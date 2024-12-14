@@ -4,11 +4,11 @@ This project is an introduction to noSQL databases, specifically mongodb. The da
 
 ## Files
 
-- Run in order:
-1 NoSQL_setup.ipynb
-1 NoSQL_analysis.ipynb
+### Run in order:
+1. NoSQL_setup.ipynb
+1. NoSQL_analysis.ipynb
 
-- Resources Folder:
+### Resources Folder:
 1. establishments.json file used to populate the database
 1. image.png is a screenshot used to document analysis results
 
