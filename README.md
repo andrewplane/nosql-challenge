@@ -16,11 +16,6 @@ Andrew Lane, 2024
 - [@andrewplane](https://github.com/andrewplane)
 
 
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
 ## Features
 
 - Light/dark mode toggle
