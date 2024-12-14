@@ -12,11 +12,6 @@ This project is an introduction to noSQL databases, specifically mongodb. The da
 1. establishments.json file used to populate the database
 1. image.png is a screenshot used to document analysis results
 
-## Author
-
-Andrew Lane, 2024
-- [@andrewplane](https://github.com/andrewplane)
-
 ## Analysis
 
 - Number of establishments with a hygiene score of 20 (0 is best, higher numbers are worse): 41
@@ -39,3 +34,8 @@ Andrew Lane, 2024
  - This project was created as part of the EdX Data Analytics Bootcamp
  - File structure and data is provided by EdX
  - The language model AI Xpert was used for troubleshooting during the project
+
+## Author
+
+Andrew Lane, 2024
+- [@andrewplane](https://github.com/andrewplane)
